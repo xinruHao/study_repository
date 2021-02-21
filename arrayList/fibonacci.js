@@ -7,4 +7,5 @@ for(var i=2; i<20; i++) {
     fibonacci[i] = fibonacci[i-1] + fibonacci[i-2];
 }
 for(var i=0;i<20;i++) {
-    console.log(fibonacci[i]);}
+    console.log(fibonacci[i]);
+}
